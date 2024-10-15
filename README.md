@@ -1,1 +1,1 @@
-# resumo-do-lab
+Este lab apresentou o portal do Microsof Azure, informou sobre algumas restrições da versão gratuita, apresentou as categorias existentes no portal, apresentou a opção de alterar o idioma e também alterar a visualização do portal, falou sobre as versões prévias que é uma versão que não dá suporte algum então que não é recomendável a utilização dele nas empresas, enquanto estiverm assim, pois pode dar problema e se perder todas as informações, é por conta e risco do usuário. Falou sobre a migração de dados, onde existe um local específico para isso.
